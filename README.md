@@ -1,15 +1,15 @@
 # LineFollowingRobotWithPID_Python
 The possible sensor array output when following a line are:
 
-0 0 0 0 1
-0 0 0 1 1
-0 0 0 1 0
-0 0 1 1 0
-0 0 1 0 0
-0 1 1 0 0
-0 1 0 0 0
-1 1 0 0 0
-1 0 0 0 0
+0 0 0 0 1---
+0 0 0 1 1---
+0 0 0 1 0---
+0 0 1 1 0---
+0 0 1 0 0---
+0 1 1 0 0---
+0 1 0 0 0---
+1 1 0 0 0---
+1 0 0 0 0---
 Having 5 sensors, permits a generation of an "error variable" that will help to control the robot's position over the line, as shown bellow.
 
 Let's consider that the optimum condition is when the robot is centered, having the line just bellow the "middle sensor" (Sensor 2). The output of the array will be: 0 0 1 0 0 and in this situation, the "error" will be "zero". If the robot starts to driven to the left (the line "seems move" right") the error must increase with a positive signal. If the robot start to move to the right (the line "seems move" left"), in the same way, the error must increase, but now with a negative signal.
