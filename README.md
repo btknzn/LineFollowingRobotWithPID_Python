@@ -1,3 +1,6 @@
+THE CODE PART İS WRİTTER FOR adafruit crickit.
+
+
 # LineFollowingRobotWithPID_Python
 The possible sensor array output when following a line are:
 
