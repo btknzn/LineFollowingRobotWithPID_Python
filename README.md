@@ -1,4 +1,4 @@
-THE CODE PART İS WRİTTER FOR adafruit crickit.
+THE CODE PART İS WRİTTEN FOR adafruit crickit.
 
 
 # LineFollowingRobotWithPID_Python
