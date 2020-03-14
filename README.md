@@ -1,4 +1,11 @@
-THE CODE PART İS WRİTTEN FOR adafruit crickit.
+
+Adafruit Crickit line following Robot with PID CONTROLLER implemented in Python. It was third in DHBW Heidenheim FabLab line following robot competation.
+System Logic:
+![Medal](https://github.com/btknzn/LineFollowingRobotWithPID_Python/blob/master/WhatsApp%20Image%202020-03-14%20at%2010.27.22.jpeg)
+![Medal](https://github.com/btknzn/LineFollowingRobotWithPID_Python/blob/master/WhatsApp%20Image%202020-03-14%20at%2010.27.34.jpeg)
+![Medal](https://github.com/btknzn/LineFollowingRobotWithPID_Python/blob/master/WhatsApp%20Image%202020-03-14%20at%2010.29.18.jpeg)
+![Medal](https://github.com/btknzn/LineFollowingRobotWithPID_Python/blob/master/WhatsApp%20Image%202020-03-14%20at%2010.29.19.jpeg)
+
 
 
 # LineFollowingRobotWithPID_Python
